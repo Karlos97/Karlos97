@@ -5,7 +5,7 @@
 I build cool web apps with modern tech and dabble in AI for fun. Always learning, always coding!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol-minta/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?logo=react&logoColor=white)](https://portfolio.karlos97.pl/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?logo=react&logoColor=white)](https://portfolio.karlos97.com.pl/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Karlos97)
 
 ---
@@ -25,12 +25,12 @@ I build cool web apps with modern tech and dabble in AI for fun. Always learning
 ### 🚀 **Featured Projects**
 
 #### **Portfolio + Accounting App**  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4088?logo=vercel&logoColor=white)](https://portfolio.karlos97.pl/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4088?logo=vercel&logoColor=white)](https://portfolio.karlos97.com.pl/)
 [![GitHub Repo](https://img.shields.io/badge/Repo-181717?logo=github&logoColor=white)](https://github.com/Karlos97/my-skills-overview)  
 A full-stack portfolio with a **Node.js accounting app** and project showcases. Built with React, TypeScript, and Tailwind.
 
 #### **AI Chat Assistant**  
-[![Live Demo](https://img.shields.io/badge/Chat_Demo-FF4088?logo=vercel&logoColor=white)](https://portfolio.karlos97.pl/chat)
+[![Live Demo](https://img.shields.io/badge/Chat_Demo-FF4088?logo=vercel&logoColor=white)](https://portfolio.karlos97.com.pl/chat)
 [![GitHub Repo](https://img.shields.io/badge/Repo-181717?logo=github&logoColor=white)](https://github.com/Karlos97/ai-assistant-app)  
 An AI-powered chat app with a **Django backend** and modern frontend. Experimenting with conversational AI and APIs.
 
