@@ -44,6 +44,6 @@ An AI-powered chat app with a **Django backend** and modern frontend. Experiment
 ---
 
 ### 💬 **Let’s Connect!**  
-- **Collaborate**: If you’re working on something cool (especially AI or open-source), [hit me up](mailto:your-email@example.com)!  
+- **Collaborate**: If you’re working on something cool (especially AI or open-source), [hit me up](mailto:karol.minta.dev@gmail.com)!  
 - **Jobs**: Open to full-stack or AI-related roles.  
 - **Coffee Chat**: Just want to geek out about tech? I’m down! ☕
