@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Karol
 
-🚀 **Full-Stack Developer** | **6+ years building web apps end-to-end** | **AWS & TypeScript**
+🚀 **Full-Stack Developer** | Building web apps end-to-end** | **AWS & TypeScript**
 
 I ship across the whole stack — from Terraform-managed AWS infra to polished React/Angular frontends.
 
